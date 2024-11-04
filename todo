@@ -1,0 +1,1 @@
+# Instead of timestamp calculate if file chaged by hashing file and comparing hash
